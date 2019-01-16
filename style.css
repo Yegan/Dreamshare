@@ -155,18 +155,15 @@ height: 700px;
 
 .marie{
     /* display: block; */
-   margin-left: 40px;
+   margin-left: 20px;
    margin-right: 40px;
 }
 
 .diana{
-   margin-left: 40px;
+   margin-left: 30px;
    margin-right: 40px;;
 }
-.chris{
-       margin-left: 40px;
-       margin-right: 250px;
-}
+
 
 .music{
     margin-top: 80px;
@@ -202,4 +199,54 @@ height: 700px;
     padding: 6px;
     height: 48px;
     width: 62px;
+}
+.nameB{
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #444444;
+}
+.infoB{
+    font-size: 12px;
+    width: 160px;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+}
+.nameA{
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #444444;
+}
+.infoA{
+    font-size: 12px;
+    width: 160px;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+}
+
+.nameC{
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #444444;
+}
+.infoC{
+    font-size: 12px;
+    width: 160px;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+}
+
+.nameD{
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #444444;
+}
+.infoD{
+    font-size: 12px;
+    width: 160px;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
 }
