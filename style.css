@@ -261,7 +261,7 @@ height: 700px;
     margin-top: -155px;
     margin-left: 615px;
     height: 40px;
-    width: 120px;
+    width: 150px;
 
 }
 
@@ -270,7 +270,6 @@ height: 700px;
 
 .title-holiday{
     font-size: 20px;
-
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -278,5 +277,50 @@ height: 700px;
     font-weight: 600;
 }
 
-.sports1{
+
+
+.sports{
+    margin-left: 230px;
+    height: 250px;
+    width: 260px;
+}
+
+.health{
+    margin-left: 170px;
+    height: 250px;
+    width: 260px; 
+}
+.expd{
+    margin-left: 110px;
+    height: 250px;
+    width: 260px;
+}
+.sights{
+    margin-top: 15px;
+}
+.gamepic{
+margin-left: 230px;
+height: 220px;
+width: 260px;
+}
+
+.culturepic{
+    height: 220px;
+    width: 545px;
+    margin-left: 170px;
+}
+.explore{
+    margin-top: 15px;
+
+}
+.beautyrelax{
+    margin-left: 230px;
+    height: 250px;
+    width: 545px;
+}
+
+.travel{
+    margin-left: 110px;
+    height: 250px;
+    width: 260px;
 }
