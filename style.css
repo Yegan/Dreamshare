@@ -324,3 +324,30 @@ width: 260px;
     height: 250px;
     width: 260px;
 }
+
+/* About us section */
+.line{
+    margin-top: 45px;
+    border-top: 2px solid #FF4E50;
+}
+.dreamshre{
+  margin-left: 250px;
+  font-family: 'Roboto', sans-serif;
+  color: #FF4E50;
+}
+.comp{
+font-family: 'Roboto', sans-serif;
+margin-left: 120px;
+color: #444444;
+}
+
+.act{
+ font-family: 'Roboto', sans-serif;
+ margin-left: 100px;
+ 
+}
+.con{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+
+}
